@@ -263,4 +263,4 @@ async def on_voice_state_update(member, before, after):
             guild_data[guild_id] = GuildAudioData()
 
 
-bot.run('MTM2NjA3MDkxNTkxMzIyNDMwNQ.GfMRBv.6K24wG4wshkgdAvpYJPNYotf--aR-ZUfnFZPco')
+bot.run('')
